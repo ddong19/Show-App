@@ -1,0 +1,3 @@
+# Show-App
+
+This app was built speficically for me and others who would like to remember all the movies and shows they've watched, but really just can't remember...
